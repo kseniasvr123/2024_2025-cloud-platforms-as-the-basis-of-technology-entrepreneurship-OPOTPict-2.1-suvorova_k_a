@@ -1,0 +1,1 @@
+University: ITMO University Faculty: FICT Course: Cloud platforms as the basis of technology entrepreneurship ADD link Year: 2024/2025 Group: OPOTP Author: Suvorova Ksenia Lab: Lab2 Date of create: 05.05.2025 Date of finished: 05.05.2025

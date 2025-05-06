@@ -21,7 +21,9 @@ ReplaceService - сервис обновился, новый порт запус
 ![image](https://github.com/user-attachments/assets/4fe82141-c33b-4777-88d2-3306121945e7)
 И метрики
 ![image](https://github.com/user-attachments/assets/3abd9c51-c0df-4ec9-83d5-ecff66a1365d)
+На графиках видно, 2 работающих сервиса
 ![image](https://github.com/user-attachments/assets/e040b75b-583e-4d74-9f99-172f3860a7d7)
+Максимальное количество запросов 2. Максимальная нагрузка 1%, задрежка запроса 9,9мс, используемая память -5%
 ![image](https://github.com/user-attachments/assets/ea7f173d-49bd-4ea9-8d91-1ac9e1368471)
 
 

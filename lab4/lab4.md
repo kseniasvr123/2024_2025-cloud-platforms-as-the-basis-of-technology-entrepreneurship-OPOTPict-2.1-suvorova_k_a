@@ -14,10 +14,12 @@ Cloud Storage - дешево и надежно
 
 **Расчеты**
 
-Vertex AI LLM: ≈ 450 K токенов → $18
+Vertex AI LLM: ≈ 450 K токенов = 18$
 
-Cloud Run: 1 vCPU 512 MB × 4 ч → $6
+Cloud Run: 1 vCPU 512 MB × 4 ч = 6$
 
-Firestore / Storage / Logs → $3
+Storage = 3$
 
 **Итог для MVP** - 27$
+
+# 2.Тестирование партнерами

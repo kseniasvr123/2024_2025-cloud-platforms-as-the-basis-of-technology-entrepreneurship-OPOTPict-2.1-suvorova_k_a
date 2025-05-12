@@ -50,6 +50,7 @@ Kubernetes обеспечивает отказоустойчивость. Cloud 
 **Расчеты**
 Managed Kubernetes = 50$
 Cloud Load Balancer = $30
+
 Vertex AI LLM ≈ 8 M токенов = 1200$
 Cloud Spaner ≈ 100 гб = 600$
 Monitoring = 25$
